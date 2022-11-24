@@ -1,11 +1,11 @@
-source code of my [homepage](https://vinthony.github.io/academic)
+OpenTalker page
 
 ## Credits
 
 - [Evan You](https://evanyou.me/) - CSS hyper-link style.
 - [Jekyll](https://github.com/jekyll/jekyll) & [Jekyll Now](https://github.com/barryclark/jekyll-now) - Thanks to its creators, contributors and maintainers.
 - [Jon Barron](https://jonbarron.info/) & [it's Jekyll fork](https://github.com/leonidk/new_website) - Major inspriation.
-
+- [Shadow Cun's homepage](https://vinthony.github.io/academic)
 
 ## Use as a templete
 
